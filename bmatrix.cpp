@@ -6,8 +6,8 @@ int main(){
         for(int j=0;j<5;j++){
             cin>>a;
             if(a==1){
-                r=i;
-                c=j;
+                r=i+1;
+                c=j+1;
             }
         }
     }
